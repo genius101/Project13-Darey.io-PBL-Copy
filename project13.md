@@ -195,4 +195,6 @@ Run the Ansible Playbook:
 ![NB:Upstream Server](https://user-images.githubusercontent.com/10243139/137579533-6581ff9b-5483-41f7-a5a8-528477644b68.png)
 
 
-  
+# Congratulations!
+
+You have learned and practiced how to use Ansible configuration management tool to prepare UAT environment for Tooling web solution.  
